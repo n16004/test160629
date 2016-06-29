@@ -29,4 +29,4 @@
 1. :s/old/new/g -　new from old に全て変換
 ### vim insert/append mode command list -
 
-1. esc -
+1. esc - ノーマルモードに戻る
